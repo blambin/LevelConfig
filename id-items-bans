@@ -248,6 +248,7 @@
 
 //第二级开始;
 
+"/itemban add 65",
 "/itemban add 98",
 "/itemban add 113",
 "/itemban add 151",
@@ -302,6 +303,7 @@
 "/itemban add 3368",
 "/itemban add 3548",
 
+"/itemban allow 65 LV2",
 "/itemban allow 98 LV2",
 "/itemban allow 113 LV2",
 "/itemban allow 151 LV2",
